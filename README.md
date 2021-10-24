@@ -1,0 +1,5 @@
+- AzureFuncion を Python でローカル実行するためのファイルです。  
+- Timer トリガーのみを扱っています。  
+- ほとんどのファイルは func コマンドで自動作成したものです。  
+- 現在時刻を出力するだけの自作ライブラリである display_time フォルダ内のファイル、および HelloTimer フォルダ内の __init__.py に 自作ライブラリの読込および実行スクリプトを追記しています。  
+- 詳しくは[ブログ](https://zenn.dev/megane_otoko/articles/069_azure_function)にまとめています。  
